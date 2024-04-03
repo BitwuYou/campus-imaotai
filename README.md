@@ -86,7 +86,6 @@ i茅台app，每日自动预约茅台
 
 ![Stargazers over time](https://starchart.cc/oddfar/campus-imaotai.svg)
 
-[![Security Status](https://www.murphysec.com/platform3/v31/badge/1775450303851339776.svg)](https://www.murphysec.com/console/report/1775450303813591040/1775450303851339776)
 
 ## 声明
 
