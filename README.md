@@ -8,6 +8,7 @@
 <p align="center"> i茅台app自动预约，每日自动预约，支持docker一键部署</p>
 
 <h2 align="center">Campus-imaotai</h2>
+[![Security Status](https://www.murphysec.com/platform3/v31/badge/1775450303851339776.svg)](https://www.murphysec.com/console/report/1775450303813591040/1775450303851339776)
 
   [笔记仓库](https://github.com/oddfar/notes)  |  [我的博客](https://oddfar.com)  
 
