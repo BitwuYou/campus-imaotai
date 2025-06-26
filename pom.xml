@@ -32,10 +32,10 @@
         <swagger.version>3.0.0</swagger.version>
         <fastjson.version>2.0.42</fastjson.version>
         <hutool.version>5.8.23</hutool.version>
-        <commons.fileupload.version>1.4</commons.fileupload.version>
+        <commons.fileupload.version>1.6.0</commons.fileupload.version>
         <mapstruct.version>1.5.3.Final</mapstruct.version>
         <kaptcha.version>2.3.2</kaptcha.version>
-        <jwt.version>0.9.1</jwt.version>
+        <jwt.version>0.12.0</jwt.version>
         <poi.version>4.1.2</poi.version>
         <sunmail.version>1.6.2</sunmail.version>
         <p6spy.spring.boot>1.8.1</p6spy.spring.boot>
