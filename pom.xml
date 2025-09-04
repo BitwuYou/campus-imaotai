@@ -26,7 +26,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <bitwalker.version>1.21</bitwalker.version>
-        <mybatis.plus.boot.version>3.5.4.1</mybatis.plus.boot.version>
+        <mybatis.plus.boot.version>3.5.8</mybatis.plus.boot.version>
         <p6spy.version>3.9.1</p6spy.version>
         <dynamic-ds.version>4.2.0</dynamic-ds.version>
         <swagger.version>3.0.0</swagger.version>
